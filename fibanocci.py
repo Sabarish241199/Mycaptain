@@ -1,4 +1,4 @@
-l=input("Fibanocci numbers you want:")
+l=int(input("Fibanocci numbers you want:"))
 fn=list()
 fn=[0,1]
 i=2
