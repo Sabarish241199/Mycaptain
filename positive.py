@@ -1,4 +1,4 @@
-l=input("input the length of the list:")
+l=int(input("input the length of the list:"))
 a=list()
 b=list()
 print("Enter the list")
